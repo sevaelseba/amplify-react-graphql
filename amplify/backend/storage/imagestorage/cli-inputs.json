@@ -1,0 +1,12 @@
+{
+  "resourceName": "imagestorage",
+  "policyUUID": "99269566",
+  "bucketName": "imagenapinotascloud",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
